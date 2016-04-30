@@ -1,4 +1,4 @@
-#Simple Database Challenge
+# In memory database
 
 To run the program execute the following command in CMD:
 
